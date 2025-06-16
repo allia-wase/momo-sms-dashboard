@@ -1,4 +1,3 @@
-
 Mo SMS Analysis Dashboard
 
 This project processes SMS data from MTN MoMo, categorizes transactions, stores them in a relational database, and provides a web dashboard for analysis and visualization.
